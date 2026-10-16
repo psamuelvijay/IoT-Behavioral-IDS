@@ -1,6 +1,6 @@
 # IoT Behavioral Intrusion Detection System
 
-Real-time behavioral fingerprinting system for detecting cloned and compromised IoT devices using machine learning and cryptographic audit logging.
+A real-time behavioral fingerprinting system for detecting cloned and compromised IoT devices using machine learning and cryptographic audit logging.
 
 ---
 
